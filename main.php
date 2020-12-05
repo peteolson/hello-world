@@ -1,3 +1,4 @@
+// this is only a test
 <?PHP
 echo "hello-world";
 echo "<br>";
